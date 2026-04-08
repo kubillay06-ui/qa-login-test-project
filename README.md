@@ -1,18 +1,27 @@
 # QA Login Test Project
 
-This project includes manual test cases and bug reports for a login page.
+## 📌 Project Description
+This project includes manual testing of a login functionality using real test scenarios.
 
-## Scope
+## 🎯 Scope
 - Login functionality testing
-- Positive & negative scenarios
-- Bug reporting
+- Positive & negative test scenarios
+- Error message validation
 
-## Tools Used
+## 🧪 Test Types
+- Manual Testing
+- Functional Testing
+- Negative Testing
+
+## 🛠️ Tools Used
 - Manual Testing
 
-## Test Artifacts
+## 📂 Project Structure
 - Test Cases
 - Bug Reports
 
-## Author
+## 🐞 Sample Bug
+Incorrect error message when double clicking login button.
+
+## 👨‍💻 Author
 Kubilay
